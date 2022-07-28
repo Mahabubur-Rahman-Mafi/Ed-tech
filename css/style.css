@@ -4,7 +4,9 @@ body{
 a, a:hover{
     text-decoration: none;
 }
-
+.slider-section{
+    height: auto;
+}
 .course-section .course-card{
     margin-left: 15px;
 }
