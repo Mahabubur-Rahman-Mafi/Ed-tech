@@ -1,6 +1,9 @@
 body{
    font-family: 'Poppins', sans-serif; 
 }
+a, a:hover{
+    text-decoration: none;
+}
 .slider-section .carousel-caption h1{
     font
 }
@@ -16,6 +19,5 @@ body{
 .deals-section{
     background-color:  #F4FAFD;
 }
-.register-section{
-    justify-content: space-between !important;
-}
+
+
