@@ -4,18 +4,18 @@ body{
 a, a:hover{
     text-decoration: none;
 }
-.deals-section 
+
 .course-section .course-card{
     margin-left: 15px;
 }
 .course-section .course-card p{
     margin: 0;
 }
-.course-section .courses-btn{
-    text-align: center;
-}
 .deals-section{
     background-color:  #F4FAFD;
+}
+.register-section{
+    background-color:#289BDE;
 }
 
 
