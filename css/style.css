@@ -1,9 +1,21 @@
 body{
    font-family: 'Poppins', sans-serif; 
 }
-/* .slider-section .carousel-caption{
-   margin-bottom: 100px;
-} */
 .slider-section .carousel-caption h1{
     font
+}
+.course-section .course-card{
+    margin-left: 15px;
+}
+.course-section .course-card p{
+    margin: 0;
+}
+.course-section .courses-btn{
+    text-align: center;
+}
+.deals-section{
+    background-color:  #F4FAFD;
+}
+.register-section{
+    justify-content: space-between !important;
 }
