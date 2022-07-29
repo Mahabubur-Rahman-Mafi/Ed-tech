@@ -4,8 +4,9 @@ body{
 a, a:hover{
     text-decoration: none;
 }
-.slider-section{
-    height: auto;
+.hero-text-body{
+    padding: 200px 0;
+
 }
 .course-section .course-card{
     margin-left: 15px;
